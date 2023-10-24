@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, TailwindCSS, Version Control**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to contribute on **Open Source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/not-AdityaRawat](https://github.com/not-AdityaRawat)
 
