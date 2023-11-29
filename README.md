@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [IP-Survivor's-Kit](https://ip-survivors-kit.vercel.app/)
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, TailwindCSS, Version Control**
+- 🌱 I’m currently learning **ReactJS, NodeJS, Mongo DB**
 
 - 👯 I’m looking to contribute on **Open Source**
 
